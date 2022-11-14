@@ -18,7 +18,7 @@ In this work, we report on a method for generating potent antibiotics, MDAGS. Th
 ## Data
 In order to train a model, you must provide training data containing molecules with target values.
 ### the main dataset
-the main dataset is under the directory data
+The main dataset is under the directory data
 ### MOSES Dataset and GuacaMol Dataset
 The data for these two datasets can be downloaded from the following links
 * The processed Guacamol and MOSES datasets in csv format can be downloaded from this link
